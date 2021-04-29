@@ -1,4 +1,4 @@
-# blog-comments
+# 💬 blog-comments
 
 Blog comment repository for [mazipan.space](https://mazipan.space/), powered by [utteranc.es](https://utteranc.es/)
 
